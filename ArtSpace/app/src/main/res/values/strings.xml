@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="gato_1">Gato viendo cámara</string>
+    <string name="gato_2">Gato tratando de alcanzar algo</string>
+    <string name="gato_3">Gato pensativo</string>
+    <string name="gato_4">Gato dormilon</string>
+    <string name="gato_5">Michi saludador</string>
+    <string name="gato_6">Gato espiando por ventana</string>
+    <string name="gato_7">Gato acostado pensativo</string>
+
+    <string name="autor_1">Emiliano</string>
+    <string name="autor_2">Jose</string>
+    <string name="autor_3">Marique</string>
+    <string name="autor_4">Andres</string>
+    <string name="autor_5">Carlos</string>
+    <string name="autor_6">José</string>
+    <string name="autor_7">Pancho</string>
+</resources>
